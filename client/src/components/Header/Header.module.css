@@ -1,0 +1,16 @@
+.header_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #3a3b3c;
+}
+
+.header_text {
+    color: whitesmoke;
+    text-shadow: #FC0 1px 0 10px;
+}
